@@ -5,6 +5,9 @@
   "guidance" : [ {
     "title" : "Proc1",
     "details" : "Action1"
+  }, {
+    "title" : "Proc2",
+    "details" : "Action2"
   } ],
   "displays" : [ {
     "title" : "Screen1",

@@ -111,6 +111,10 @@
         <title>Proc1</title>
         <details>Action1</details>
       </guidance>
+      <guidance>
+        <title>Proc2</title>
+        <details>Action2</details>
+      </guidance>
       <display>
         <title>Screen1</title>
         <details>C:\phoebus-4.6.10\fishtank\heater.bob</details>
