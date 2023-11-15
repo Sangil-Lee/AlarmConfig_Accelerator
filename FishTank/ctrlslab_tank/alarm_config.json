@@ -2,13 +2,6 @@
   "user" : "ctrluser",
   "host" : "Debian11VM",
   "description" : "ctrlslab:tank",
-  "guidance" : [ {
-    "title" : "Proc1",
-    "details" : "Action1"
-  }, {
-    "title" : "Proc2",
-    "details" : "Action2"
-  } ],
   "displays" : [ {
     "title" : "Screen1",
     "details" : "C:\\phoebus-4.6.10\\fishtank\\heater.bob"
