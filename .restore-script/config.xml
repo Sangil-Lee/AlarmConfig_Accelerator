@@ -107,6 +107,10 @@
       <enabled>true</enabled>
       <latching>true</latching>
       <annunciating>true</annunciating>
+      <guidance>
+        <title>Proc1</title>
+        <details>Action1</details>
+      </guidance>
       <display>
         <title>Screen1</title>
         <details>C:\phoebus-4.6.10\fishtank\heater.bob</details>
