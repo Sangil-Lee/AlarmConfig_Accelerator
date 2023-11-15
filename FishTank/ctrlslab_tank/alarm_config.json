@@ -1,0 +1,9 @@
+{
+  "user" : "ctrluser",
+  "host" : "Debian11VM",
+  "description" : "ctrlslab:tank",
+  "displays" : [ {
+    "title" : "Screen1",
+    "details" : "C:\\phoebus-4.6.10\\fishtank\\heater.bob"
+  } ]
+}

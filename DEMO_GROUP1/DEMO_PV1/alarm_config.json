@@ -1,0 +1,8 @@
+{
+  "user" : "ctrluser",
+  "host" : "Debian11VM",
+  "description" : "DEMO:PV1",
+  "latching" : false,
+  "annunciating" : false,
+  "filter" : "DEMO:PV2 > 10"
+}
