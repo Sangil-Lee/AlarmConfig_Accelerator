@@ -41,6 +41,10 @@
       <enabled>true</enabled>
       <latching>true</latching>
       <annunciating>true</annunciating>
+      <guidance>
+        <title>Proc1</title>
+        <details>Action1</details>
+      </guidance>
     </pv>
     <pv name="DEMO:PV7">
       <description>DEMO:PV7</description>

@@ -1,5 +1,9 @@
 {
   "user" : "ctrluser",
   "host" : "Debian11VM",
-  "description" : "DEMO:PV6"
+  "description" : "DEMO:PV6",
+  "guidance" : [ {
+    "title" : "Proc1",
+    "details" : "Action1"
+  } ]
 }
